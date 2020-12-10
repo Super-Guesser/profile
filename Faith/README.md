@@ -4,4 +4,4 @@
 - do: pwn
 - twitter: https://twitter.com/farazsth98
 - github: https://github.com/farazsth98
-- info: Security researcher hunting for browser and kernel 0days. Part of the rbtree and rkm fan club
+- info: Security researcher hunting for browser and kernel 0days. Member of the rbtree and rkm fan clubs
