@@ -4,4 +4,4 @@
 - do: pwn
 - twitter: https://twitter.com/farazsth98
 - github: https://github.com/farazsth98
-- info: Security researcher hunting for browser and kernel 0-days. Wants to become a crypto god like rkm and rbtree one day
+- info: Security researcher hunting for browser and kernel 0days. Part of the rbtree and rkm fan club
