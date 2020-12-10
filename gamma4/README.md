@@ -1,6 +1,6 @@
 - gamma4
-- profile: /profile/gamma4/img/profile.png
-- banner:/profile/gamma4/img/banner.png
+- profile: https://raw.githubusercontent.com/Super-Guesser/profile/main/gamma4/img/banner.png
+- banner: https://raw.githubusercontent.com/Super-Guesser/profile/main/gamma4/img/profile.png
 - do: stuff and things like that
 - twitter: https://twitter.com/gamma416
 - github: fetching repo failed.
