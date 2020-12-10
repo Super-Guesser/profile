@@ -4,4 +4,4 @@
 - do: web, mobile, re
 - twitter: https://twitter.com/0xsapra
 - github: https://github.com/anonyme1396
-- info: why is writing info so hard? I like my team :)
+- info: System architecture and Security enthusiast. I like breaking web :D
