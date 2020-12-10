@@ -1,0 +1,7 @@
+- sapra
+- profile: https://images-na.ssl-images-amazon.com/images/I/71om4dFYpdL._SL1500_.jpg
+- banner: https://i.imgur.com/1oRavUh.jpeg
+- do: web, mobile, re
+- twitter: https://twitter.com/0xsapra
+- github: https://github.com/anonyme1396
+- info: why is writing info so hard? I like my team :)
