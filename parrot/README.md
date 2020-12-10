@@ -1,7 +1,7 @@
 - parrot
-- profile: sdf
+- profile: https://pbs.twimg.com/profile_images/1309218341718982656/oAw3ubl4_400x400.jpg
 - banner: dsfdsf
 - do: web
-- twitter: jsdf
-- github: dfdf
-- info: i don't know what to put here
+- twitter: https://twitter.com/0xparrot/photo
+- github: https://github.com/0xParrot
+- info: I don't know what to put here.
