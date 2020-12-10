@@ -1,4 +1,6 @@
 - sqrtrev
+- profile: https://pbs.twimg.com/profile_images/1329052922227826688/ApK1PwJJ_400x400.jpg
+- banner: https://pbs.twimg.com/profile_banners/706159457017827328/1457196798/1500x500
 - do: web, misc
 - twitter: https://twitter.com/sqrtrev
 - github: https://github.com/sqrtrev
