@@ -1,7 +1,7 @@
 - gamma4
 - profile: https://raw.githubusercontent.com/Super-Guesser/profile/main/gamma4/img/banner.png
 - banner: https://raw.githubusercontent.com/Super-Guesser/profile/main/gamma4/img/profile.png
-- do: stuff and things like that
+- do: Page Not Found: 404
 - twitter: https://twitter.com/gamma416
 - github: fetching repo failed.
 - info: I'm here because I love CTFs.
