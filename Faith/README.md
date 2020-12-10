@@ -1,0 +1,7 @@
+- Faith
+- profile: https://pbs.twimg.com/profile_images/1175691149647867904/PDQqz5SG_400x400.png
+- banner: https://pbs.twimg.com/profile_banners/1132521856076996608/1585720301/1500x500
+- do: pwn
+- twitter: https://twitter.com/farazsth98
+- github: https://github.com/farazsth98
+- info: Security researcher hunting for browser and kernel 0-days. Wants to become a crypto god like rkm and rbtree one day
