@@ -1,4 +1,4 @@
-- <img>
+- <img src=x onerror=alert("LOL")>
 - profile: javascript:alert();
 - banner: javascript:alert();
 - do: web, <img>
