@@ -1,0 +1,7 @@
+- Renwa
+- profile: https://pbs.twimg.com/profile_images/1087425707498762240/h7bJHG-h.jpg
+- banner: https://pbs.twimg.com/profile_banners/359455428/1572647478
+- do: web
+- twitter: https://twitter.com/RenwaX23
+- github: https://github.com/RenwaX23
+- info: The world itself is the will to power - and nothing else! And you yourself are the will to power - and nothing else!
