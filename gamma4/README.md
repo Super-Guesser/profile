@@ -1,8 +1,7 @@
-== Greetings from **gamma4** aka _grandpaw_
-
-![profile-img](/profile/gamma4/img/banner.png)
-![banner](/profile/gamma4/img/banner.png)
-
-== About me
-
-I'm here because I love CTFs.
+- gamma4
+- profile: /profile/gamma4/img/profile.png
+- banner:/profile/gamma4/img/banner.png
+- do: stuff and things like that
+- twitter: https://twitter.com/gamma416
+- github: fetching repo failed.
+- info: I'm here because I love CTFs.
