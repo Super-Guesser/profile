@@ -1,0 +1,7 @@
+- gamma4
+- profile: /profile/gamma4/img/profile.png
+- banner:/profile/gamma4/img/banner.png
+- do: stuff and things like that
+- twitter: https://twitter.com/gamma416
+- github: fetching repo failed.
+- info: I'm here because I love CTFs.

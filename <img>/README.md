@@ -1,7 +1,0 @@
-- <img src=x onerror=alert("LOL")>
-- profile: javascript:alert();"
-- banner: javascript:alert();"
-- do: web, <img>
-- twitter: javascript:alert();"
-- github: javascript:alert();"
-- info: <img>
