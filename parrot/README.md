@@ -1,0 +1,7 @@
+- parrot
+- profile: sdf
+- banner: dsfdsf
+- do: web
+- twitter: jsdf
+- github: dfdf
+- info: i don't know what to put here
