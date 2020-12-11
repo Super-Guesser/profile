@@ -4,5 +4,5 @@
 - do: crypto
 - twitter: https://twitter.com/rkm0959
 - github: https://github.com/rkm0959
-- info: I'm in faith, rbtree, ptr-yudai, posix fanclubs.
+- info: I'm in faith, rbtree, ptr-yudai, theoremoon, posix fanclubs.
 
