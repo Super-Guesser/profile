@@ -4,4 +4,4 @@
 - do: web, misc
 - twitter: https://twitter.com/sqrtrev
 - github: https://github.com/sqrtrev
-- info: Co-captain of this team with Sapra. Want to do pwn well.
+- info: I want to be a cat
