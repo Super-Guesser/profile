@@ -1,6 +1,6 @@
 - stamparm
 - profile: https://i.imgur.com/dvWRRGh.png
-- banner: https://pbs.twimg.com/profile_banners/282228023/1540544418/1500x500
+- banner: https://pbs.twimg.com/profile_banners/282228023/1608209756/1500x500
 - do: misc
 - twitter: https://twitter.com/stamparm
 - github: https://github.com/stamparm
