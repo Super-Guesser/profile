@@ -1,5 +1,5 @@
 - stamparm
-- profile: https://i.imgur.com/dvWRRGh.png
+- profile: https://pbs.twimg.com/profile_images/1295795751151427584/f4_SL44N_400x400.jpg
 - banner: https://pbs.twimg.com/profile_banners/282228023/1608209756/1500x500
 - do: misc
 - twitter: https://twitter.com/stamparm
