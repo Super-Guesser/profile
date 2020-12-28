@@ -4,4 +4,4 @@
 - do: pwn
 - twitter: https://twitter.com/farazsth98
 - github: https://github.com/farazsth98
-- info: Security Engineer working on browser 0-day/N-day research. Member of the rbtree and rkm fan clubs
+- info: I write exploits in JS ;) Proud member of the rbtree and rkm fan clubs
