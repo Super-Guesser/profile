@@ -4,4 +4,4 @@
 - do: web, dev
 - twitter: https://twitter.com/yum1n__
 - github: https://github.com/yum1n0
-- info: I need to survive 2020
+- info: Surviving 2020 was an accident
