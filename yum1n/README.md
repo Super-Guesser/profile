@@ -1,7 +1,7 @@
 - yum1n
-- profile: https://pbs.twimg.com/profile_images/1331862964819931143/oPkmPgml_400x400.jpg
+- profile: https://pbs.twimg.com/profile_images/1345661062541176833/KM7sg4ZQ_400x400.jpg
 - banner: https://pbs.twimg.com/profile_banners/1282935746219790337/1607699077/300x100
 - do: web, dev
 - twitter: https://twitter.com/yum1n__
 - github: https://github.com/yum1n0
-- info: Surviving 2020 was an accident
+- info: yumin
