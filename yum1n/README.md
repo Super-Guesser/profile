@@ -1,5 +1,5 @@
 - yum1n
-- profile: https://pbs.twimg.com/profile_images/1345661062541176833/KM7sg4ZQ_400x400.jpg
+- profile: https://pbs.twimg.com/profile_images/1364805765081538560/taLuwoG2_400x400.jpg
 - banner: https://pbs.twimg.com/profile_banners/1282935746219790337/1607699077/300x100
 - do: web, dev
 - twitter: https://twitter.com/yum1n__
