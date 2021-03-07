@@ -1,0 +1,7 @@
+- bbbig
+- profile: https://pbs.twimg.com/profile_images/1368577127256190982/17R6UhEH_400x400.jpg
+- banner: kk
+- do: pwn, rev
+- twitter: https://twitter.com/bbbig12
+- github: https://github.com/bbb1g
+- info: Wanna solve ctf challenges? Just Guess!
