@@ -4,4 +4,4 @@
 - do: none
 - twitter: https://twitter.com/circleous
 - github: https://github.com/circleous
-- info: master of none. member of yeon fan club.
+- info: master of none. member of yeon, rkm, and faith fan club.
