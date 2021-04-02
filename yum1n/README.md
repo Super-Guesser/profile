@@ -1,7 +1,7 @@
 - yum1n
-- profile: https://pbs.twimg.com/profile_images/1364805765081538560/taLuwoG2_400x400.jpg
-- banner: https://pbs.twimg.com/profile_banners/1282935746219790337/1607699077/300x100
-- do: web, dev
+- profile: https://avatars.githubusercontent.com/u/60457296?v=4
+- banner: https://i.pinimg.com/originals/e8/61/85/e8618596979dfffbde9abe9e2f6bf457.jpg
+- do: web
 - twitter: https://twitter.com/yum1n__
 - github: https://github.com/yum1n0
 - info: yumin
