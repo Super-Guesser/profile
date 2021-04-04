@@ -1,0 +1,7 @@
+- r4j
+- profile: https://pbs.twimg.com/profile_images/1330624362022518786/1BppGBLw_400x400.png
+- banner: https://pbs.twimg.com/media/EgXY1ljUcAAEqNJ?format=png&name=small
+- do: pwn
+- twitter: https://twitter.com/r4j0x00
+- github: https://github.com/r4j0x00
+- info: hax
