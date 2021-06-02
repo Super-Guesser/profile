@@ -1,6 +1,6 @@
 - circleous
-- profile: https://pbs.twimg.com/profile_images/1171759974231371776/PqV1vBNq_400x400.jpg
-- banner: https://pbs.twimg.com/profile_banners/282228023/1540544418/1500x500
+- profile: https://files.catbox.moe/58q8sy.png
+- banner: https://i.pinimg.com/736x/06/18/44/061844d3a5f9cf1727512d9d4a88594e.jpg
 - do: none
 - twitter: https://twitter.com/circleous
 - github: https://github.com/circleous
