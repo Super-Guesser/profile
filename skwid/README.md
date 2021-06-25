@@ -1,0 +1,5 @@
+- skwid
+- profile: https://pbs.twimg.com/profile_images/1369737471727124481/220kWa3q_400x400.jpg
+- banner: asdfaf
+- do: dev, rev
+- info: i like everyone our team
