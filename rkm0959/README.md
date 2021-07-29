@@ -1,8 +1,6 @@
 - rkm0959
-- profile: https://pbs.twimg.com/profile_images/1321354296718340096/KmngiZU4_400x400.jpg
-- banner: https://pbs.twimg.com/profile_banners/1302290207941640192/1604309451/1500x500
+- profile: https://pbs.twimg.com/profile_images/1409096148980146180/5Ey74yS7_400x400.jpg
 - do: crypto
 - twitter: https://twitter.com/rkm0959
 - github: https://github.com/rkm0959
-- info: I'm in faith, rbtree, ptr-yudai, theoremoon, posix fanclubs.
-
+- info: i don't know how to hack stuff
