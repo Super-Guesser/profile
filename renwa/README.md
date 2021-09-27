@@ -4,4 +4,4 @@
 - do: xss
 - twitter: https://twitter.com/RenwaX23
 - github: https://github.com/RenwaX23
-- info: <h1>Thex world itself is the will to power and nothing else! And you yourself are the will to power and nothing else!
+- info: The world itself is the will to power and nothing else! And you yourself are the will to power and nothing else!
