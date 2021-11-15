@@ -1,6 +1,6 @@
 - as3617
 - profile: https://tistory1.daumcdn.net/tistory/3303539/attach/e7d32d6f9dba4612a28415d82dbf9319
-- banner: https://pbs.twimg.com/profile_banners/706159457017827328/1457196798/1500x500
+- banner: https://tistory1.daumcdn.net/tistory/3303539/attach/e7d32d6f9dba4612a28415d82dbf9319
 - do: web, guessing
 - twitter: https://twitter.com/real_as3617
 - github: https://github.com/as3617
