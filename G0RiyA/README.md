@@ -1,5 +1,6 @@
 - G0RiyA
 - profile: https://avatars.githubusercontent.com/u/39259400
+- banner: zzlol
 - do: sigh
 - github: https://github.com/G0RiyA
-- info: zzlol
+- info: X
