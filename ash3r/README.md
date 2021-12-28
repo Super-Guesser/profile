@@ -2,4 +2,4 @@
 - profile: https://raw.githubusercontent.com/Super-Guesser/profile/main/ash3r/profile.jpeg
 - banner: hehe
 - do: web
-- info: sunrin 20th
+- info: Web newbie
