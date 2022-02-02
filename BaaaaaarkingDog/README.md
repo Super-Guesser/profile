@@ -1,0 +1,6 @@
+- BaaaaaarkingDog
+- profile: https://i.imgur.com/EE6qap8.jpeg
+- banner: xx
+- do: crypto
+- github: https://github.com/encrypted-def
+- info: Bow!..woow!..Boow!..ow!..wwoo!!
