@@ -1,7 +1,7 @@
 - Faith
 - profile: https://pbs.twimg.com/profile_images/1175691149647867904/PDQqz5SG_400x400.png
 - banner: https://pbs.twimg.com/profile_banners/1132521856076996608/1585720301/1500x500
-- do: pwn
+- do: everything
 - twitter: https://twitter.com/farazsth98
 - github: https://github.com/farazsth98
-- info: I write exploits in JS ;) Proud member of the rbtree and rkm fan clubs
+- info: Hacking every stack on the planet
