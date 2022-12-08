@@ -1,7 +1,0 @@
-- rbtree
-- profile: https://pbs.twimg.com/profile_images/1364139121413812224/xgUtz_5o_400x400.jpg
-- banner: https://pbs.twimg.com/profile_banners/1134726309798486017/1580898678/1500x500
-- do: rev, crypto
-- twitter: https://twitter.com/RBTree_
-- github: https://github.com/jhs7jhs
-- info: I'm a reversing guy. Doing crypto tho.
